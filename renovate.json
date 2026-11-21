@@ -1,3 +1,4 @@
 {
+  "forkProcessing": "enabled",
   "extends": ["github>longhorn/release:renovate-csi/csi-health-monitor"]
 }
